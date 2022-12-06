@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ASCII" ?>
+	<itemlist>
+		<item model="3583" name="od_celldoor3">
+			<position x="384.2082581" y="-505.8559265" z="9.680223465" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="3584" name="od_celldoor4">
+			<position x="392.3794556" y="-502.4020935" z="9.680222511" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="3583" name="od_celldoor3">
+			<position x="385.8082581" y="-503.8559265" z="9.680223465" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+		<item model="3584" name="od_celldoor4">
+			<position x="388.3794556" y="-500.8020935" z="9.680222511" />
+			<rotation format="axisangle" x="0" y="0" z="0" angle="1" />
+		</item>
+	</itemlist>
